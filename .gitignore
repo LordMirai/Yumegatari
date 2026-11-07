@@ -26,3 +26,5 @@ Thumbs.db
 *.log
 *.dmp
 *.mdm
+
+.gemini/
